@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 from numpydoc.docscrape import FunctionDoc
-from src.main import merge_parameters, merge
+from numpydoc_tools.main import merge_parameters, merge
 
 
 def foobar(a, b):

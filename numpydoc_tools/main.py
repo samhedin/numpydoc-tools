@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-from numpydoc.docscrape import NumpyDocString
+from numpydoc.docscrpe import NumpyDocString
 from numpydoc.docscrape import FunctionDoc
 import argparse
 

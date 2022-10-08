@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "src"
+name = "numpydoc_tools"
 version = "0.1.0"
 description = ""
 authors = ["Sam Hedin <sam.hedin@gmail.com>"]
